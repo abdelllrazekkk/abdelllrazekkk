@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mohammed Ahmed Abdelrazek Aboelela, a 2nd Year Physics Doctorate Student at SMU. I work on the ATLAS Experiment at CERN in two directions: B-jet Trigger and Di-Higgs Analyses.
+- 👋 Hi, I’m Mohammed Ahmed Abdelrazek Aboelela, a 3rd Year Physics Doctorate Student at SMU. I work on the ATLAS Experiment at CERN in two directions: Multi(B)-jet Trigger and Di-Higgs Analyses.
 - 👀 I’m interested in the applications of Machine Learning algorithms to High Energy Physics.
-- 🌱 I’m currently learning Python, Machine Learning and Deep Neural Networks
-- 💞️ I’m looking to collaborate on new Machine Learning in HEP Projects.
+- 💞️ I’m looking forward to collaborate on new Machine Learning in HEP Projects.
 - 📫 How to reach me maboelela@smu.edu - mo.abdellrazekk@cern.ch
 
 <!---
